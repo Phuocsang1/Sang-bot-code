@@ -1,0 +1,106 @@
+{
+    "cacheName": {},
+    "cacheNameExpires": {},
+    "everyoneTagBlacklist": {},
+    "createGroupCooldown": {},
+    "arrowChat": {},
+    "BotManager": {},
+    "rbclist": {},
+    "userLanguage": {},
+    "simsimiList": {},
+    "countchat": {
+        "realtimedata": {},
+        "save": {
+            "times": {}
+        },
+        "active": []
+    },
+    "deathtag": {},
+    "denyCommand": [],
+    "disabledThread": [],
+    "ecoGambling": {
+        "blackjack": {}
+    },
+    "rouletteData": {},
+    "economyIncome": {
+        "config": {
+            "payout": {
+                "work": {
+                    "min": 15000000,
+                    "max": 20000000
+                },
+                "slut": {
+                    "min": 30000000,
+                    "max": 45000000
+                },
+                "crime": {
+                    "min": 60000000,
+                    "max": 85000000
+                },
+                "lottery": {
+                    "min": 850000000,
+                    "max": 1000000000
+                }
+            },
+            "fineamount": {
+                "slut": {
+                    "min": 25000000,
+                    "max": 40000000
+                },
+                "crime": {
+                    "min": 55000000,
+                    "max": 80000000
+                },
+                "lottery": {
+                    "min": 85000000,
+                    "max": 100000000
+                }
+            },
+            "failrate": {
+                "slut": 10,
+                "crime": 20,
+                "lottery": 90
+            },
+            "cooldown": {
+                "work": 5,
+                "slut": 5,
+                "crime": 5,
+                "lottery": 3,
+                "rob": 3600
+            }
+        },
+        "data": {
+            "work": {},
+            "slut": {},
+            "crime": {},
+            "lottery": {},
+            "rob": {},
+            "minting": {
+                "amountPerMinute": 10,
+                "userData": {}
+            }
+        }
+    },
+    "economyGrid": {
+        "freight": {},
+        "cooldown": {}
+    },
+    "economy": {},
+    "economyStart": "0n",
+    "economyTX": [],
+    "giftcode": {},
+    "GoogleTranslate": {},
+    "lottery": {},
+    "Note": {},
+    "picarrow": {},
+    "piccommand": {},
+    "toggleThanos": {},
+    "thanosMessageData": {},
+    "eXPerience": {
+        "xp": {},
+        "checkRankCooldown": {},
+        "xpPerAction": 1
+    },
+    "tagg": {},
+    "fbBannedUsers": []
+}
